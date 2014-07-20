@@ -1,0 +1,73 @@
+========================================================================
+========================================================================
+************************************************************************
+                               Vendetta
+************************************************************************
+                  Programmed by William Breathitt Gray
+                 Copyright 2010 William Breathitt Gray
+========================================================================
+========================================================================
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                           Table of Contents
+////////////////////////////////////////////////////////////////////////
+I. Requirements
+II. Installation
+III. Licensing
+IV. Contact
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+////////////////////////////////////////////////////////////////////////
+
+========================================================================
+                            I. Requirements
+========================================================================
+Web Server (Apache2)
+PHP 5 >= 5.1.2, PECL hash >= 1.1
+MySQL
+   * MySQL user must have these privileges:
+     CREATE, DROP, DELETE, INSERT, ALTER, UPDATE, SELECT
+========================================================================
+
+
+========================================================================
+                        II. Installation
+========================================================================
+1. Decompress the files.
+2. Use a text editor to edit the config.php file.
+3. Use a web browser to navigate to the install.php page.
+4. Click the Install button to begin the installation.
+5. When the installation is done, login at the manage.php page using the
+   default administrator and change your password.
+========================================================================
+
+
+========================================================================
+                             III. Licensing
+========================================================================
+Vendetta is software to create and administrate web-based imageboards.
+Copyright 2010 William Breathitt Gray
+
+This file is part of Vendetta.
+
+Vendetta is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Vendetta is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+========================================================================
+
+
+========================================================================
+                              IV. Contact
+========================================================================
+Email: joeythepirate@gmail.com
+Website: http://vendettaproject.sourceforge.net
+========================================================================
